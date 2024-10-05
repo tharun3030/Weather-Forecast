@@ -10,8 +10,6 @@ This is a simple and visually appealing *Weather Forecast App* built using Pytho
 - *Sunrise and Sunset Times*: Shows the local time for sunrise and sunset in a human-readable format.
 - *Attractive UI*: Includes a customizable background image, styled text, and buttons for a clean and modern look.
 
-# Installation
-
 # Prerequisites
 - Python 3.x
 - requests library
